@@ -98,16 +98,15 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1669258744,
-        "narHash": "sha256-nBjidVcC8X8Ikrp1qisedav0xserBLL3qscLOFqcUXs=",
+        "lastModified": 1673141466,
+        "narHash": "sha256-MeUMYto8o6fCi3h4CYtO9axryNk+vgy7H1EppWq13KM=",
         "owner": "abathur",
         "repo": "comity",
-        "rev": "d37bebec336a78d391525bf318a52e5018440495",
+        "rev": "b3f7f9a529fb7fdc850f752ba2412f8ee429b946",
         "type": "github"
       },
       "original": {
         "owner": "abathur",
-        "ref": "flaky-breaky-heart",
         "repo": "comity",
         "type": "github"
       }
@@ -145,11 +144,11 @@
     "flake-compat": {
       "flake": false,
       "locked": {
-        "lastModified": 1668681692,
-        "narHash": "sha256-Ht91NGdewz8IQLtWZ9LCeNXMSXHUss+9COoqu6JLmXU=",
+        "lastModified": 1673956053,
+        "narHash": "sha256-4gtG9iQuiKITOjNQQeQIpoIB6b16fm+504Ch3sNKLd8=",
         "owner": "edolstra",
         "repo": "flake-compat",
-        "rev": "009399224d5e398d03b22badca40a37ac85412a1",
+        "rev": "35bb57c0c8d8b62bbfd284272c928ceb64ddbde9",
         "type": "github"
       },
       "original": {
@@ -223,11 +222,11 @@
         "shellswain": "shellswain"
       },
       "locked": {
-        "lastModified": 1671770575,
-        "narHash": "sha256-FrCvuojTtsRw1d0RlnmXvAOmY6VjtUUFN2vRnyXWVuM=",
+        "lastModified": 1674011619,
+        "narHash": "sha256-9fU4yHwp9KRzI8hZRCtuaoE2Q0Rxtt6VU2YGQLirypY=",
         "owner": "abathur",
         "repo": "shell-hag",
-        "rev": "c282e2b7581e57d5df2be261ffc505af0c92a091",
+        "rev": "04a433b936d94797a16138035c9295f4ff7d9cbf",
         "type": "github"
       },
       "original": {
@@ -252,11 +251,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1673655051,
-        "narHash": "sha256-j3vpJQ0dOwuCl3m6zf69i22aM6t60M9pdHeC22aiUNM=",
+        "lastModified": 1673733055,
+        "narHash": "sha256-mzOwTEZlHwjMdOoyMJlSmyGBr0Yh5Gk/eLzubJRGk2s=",
         "owner": "abathur",
         "repo": "lilgit",
-        "rev": "d5dff8062d71b07370a1c933df579be0fcbaa18b",
+        "rev": "8d4661b9b9850648184c637b95db385fa67158c4",
         "type": "github"
       },
       "original": {
@@ -363,16 +362,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1669272124,
-        "narHash": "sha256-OgXL3VCuVpAXetjiYJm3Usz6erLnfUYH1CRFFsQ+Seg=",
+        "lastModified": 1674010982,
+        "narHash": "sha256-rGWEP/0Kid28H5qxbknQ1aUBcAsSJAcSPykxwamwBcM=",
         "owner": "abathur",
         "repo": "shellswain",
-        "rev": "430891496ba9d2d2658dc1467d6574ee85316b80",
+        "rev": "08fc6fae68c0b7f8f42687c642b43ca3a216b1a2",
         "type": "github"
       },
       "original": {
         "owner": "abathur",
-        "ref": "flaky-breaky-heart",
+        "ref": "v0.2.0",
         "repo": "shellswain",
         "type": "github"
       }

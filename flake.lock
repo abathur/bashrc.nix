@@ -98,11 +98,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1673141466,
-        "narHash": "sha256-MeUMYto8o6fCi3h4CYtO9axryNk+vgy7H1EppWq13KM=",
+        "lastModified": 1674348911,
+        "narHash": "sha256-iY7GviaGhEdlM5EJZUMWdXfyG6pGixhul8+H3s3jYrE=",
         "owner": "abathur",
         "repo": "comity",
-        "rev": "b3f7f9a529fb7fdc850f752ba2412f8ee429b946",
+        "rev": "1a73e4163fdc7b440980c8882bfe114d544d5174",
         "type": "github"
       },
       "original": {
@@ -222,11 +222,11 @@
         "shellswain": "shellswain"
       },
       "locked": {
-        "lastModified": 1674011619,
-        "narHash": "sha256-9fU4yHwp9KRzI8hZRCtuaoE2Q0Rxtt6VU2YGQLirypY=",
+        "lastModified": 1674352522,
+        "narHash": "sha256-tu6B3gyacAkBfCNEjgq8Tnrc3ji3lRj7i7UlqrDbsVE=",
         "owner": "abathur",
         "repo": "shell-hag",
-        "rev": "04a433b936d94797a16138035c9295f4ff7d9cbf",
+        "rev": "583607fa34d85f0b46db33671aa414732a9da287",
         "type": "github"
       },
       "original": {
@@ -282,11 +282,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1673606088,
-        "narHash": "sha256-wdYD41UwNwPhTdMaG0AIe7fE1bAdyHe6bB4HLUqUvck=",
+        "lastModified": 1674236650,
+        "narHash": "sha256-B4GKL1YdJnII6DQNNJ4wDW1ySJVx2suB1h/v4Ql8J0Q=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "37b97ae3dd714de9a17923d004a2c5b5543dfa6d",
+        "rev": "cfb43ad7b941d9c3606fb35d91228da7ebddbfc5",
         "type": "github"
       },
       "original": {
@@ -362,16 +362,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1674010982,
-        "narHash": "sha256-rGWEP/0Kid28H5qxbknQ1aUBcAsSJAcSPykxwamwBcM=",
+        "lastModified": 1674349631,
+        "narHash": "sha256-/Z+5GpftfD1V7/33y1e2F2xCqeHQzIA/a22iBcuwaXA=",
         "owner": "abathur",
         "repo": "shellswain",
-        "rev": "08fc6fae68c0b7f8f42687c642b43ca3a216b1a2",
+        "rev": "19ef1b79ef5f1adfe1caf0dbe5000aa9ec5b5bc4",
         "type": "github"
       },
       "original": {
         "owner": "abathur",
-        "ref": "v0.2.0",
+        "ref": "v0.3.0",
         "repo": "shellswain",
         "type": "github"
       }

@@ -1,7 +1,7 @@
 {
   inputs = {
     nixpkgs = {
-      url = "github:nixos/nixpkgs/release-23.05";
+      url = "github:nixos/nixpkgs/nixpkgs-unstable";
     };
     flake-utils.url = "github:numtide/flake-utils";
     flake-compat = {

@@ -22,7 +22,7 @@ resholve.mkDerivation rec {
   solutions = {
     profile = {
       interpreter = "none";
-      inputs = [ hag coreutils gnugrep git lilgit ];
+      inputs = [ hag lilgit ];
       scripts = [ "bin/bashrc" ];
       keep = {
         source = [ "$HOME" ];

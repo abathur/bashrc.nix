@@ -1,8 +1,5 @@
 # shellcheck shell=bash
 
-# shellcheck source=/dev/null
-if [ -e "$HOME/.nix-profile/etc/profile.d/nix.sh" ]; then . "$HOME/.nix-profile/etc/profile.d/nix.sh"; fi # added by Nix installer
-
 # don't continue unless interactive
 if [[ -z $PS1 ]]; then return; fi
 

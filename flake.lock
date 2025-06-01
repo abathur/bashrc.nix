@@ -255,11 +255,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1701486243,
-        "narHash": "sha256-vu70xp+QXwQe9XGNmFpSRyE2TtSE1Q5z+vrNPO6fQtU=",
+        "lastModified": 1748821642,
+        "narHash": "sha256-c1MIBuVHiVz9FjUyJ3Ee2kIXBF4r0PzlK27rerXV9c8=",
         "owner": "abathur",
         "repo": "lilgit",
-        "rev": "17e53d7c49f8649ca70373d3de22acb7337f7460",
+        "rev": "fed1fd740540d57b30df5ab8e366d4f052947ed3",
         "type": "github"
       },
       "original": {

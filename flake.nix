@@ -99,8 +99,8 @@
               init = false;
               user = "${cfg.user}";
             };
-            system.activationScripts.postUserActivation.text = ''
-              ln -fs ${cfg.package}/bin/bashrc ${userHome}/.bashrc
+            system.activationScripts.postActivation.text = ''
+              sudo -u ${cfg.user} ln -fs ${cfg.package}/bin/bashrc ${userHome}/.bashrc
             '';
           };
         };
